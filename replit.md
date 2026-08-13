@@ -34,7 +34,8 @@ _Describe the high-level user-facing capabilities of this app once they exist._
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Bright Mind Pages brand work should follow this order: 1) brand logo identity, 2) social presence, 3) new low-content book concepts, 4) ongoing social media content.
+- Brand direction: gentle, structured mental health companions focused on mindfulness, habit tracking, organized self-care, zero-pressure reflection, mood and anxiety awareness, and physical wellness indicators.
 
 ## Gotchas
 
