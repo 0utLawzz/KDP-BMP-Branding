@@ -36,6 +36,7 @@ _Describe the high-level user-facing capabilities of this app once they exist._
 
 - Bright Mind Pages brand work should follow this order: 1) brand logo identity, 2) social presence, 3) new low-content book concepts, 4) ongoing social media content.
 - The official brand name for the logo identity is “Bright Mindful Pages.”
+- The approved logo direction is “Gentle Companion”: a warm, adult-friendly page-and-seed emblem that communicates gentle progress without pressure and can extend across a future journal series.
 - Brand direction: gentle, structured mental health companions focused on mindfulness, habit tracking, organized self-care, zero-pressure reflection, mood and anxiety awareness, and physical wellness indicators.
 
 ## Gotchas
